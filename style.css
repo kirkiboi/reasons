@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(3, 3, 101);
+}
+.header{
+    margin-top: 190px;
+    color: antiquewhite;
+    font-size: 50px;
+    float: none;
+    margin-left: 60px;
+    margin-bottom: 0px;
+}
+.XIII{
+    font-size: 100px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px #ffffff;
+    transition: font-size 0.8s;
+}
+.XIII:hover{
+    cursor: not-allowed;
+    font-size: 125px;
+}
+#first-p{
+    color: white;
+    font-size: 40px;
+    margin-top: 0px;
+    float: none;
+    margin-left: 390px;
+}
+.intro{
+    margin-left: 50px;
+    color: papayawhip;
+}
+.aim{
+    margin-left: 75px;
+    margin-top: 250px;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+.aim span{
+    margin-left: 300px;
+}
+.container{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.container span{
+    width: 300px;
+}
+.container p{
+    margin-top: 0px;
+    margin-left: 50px;
+}
+#motive-p{
+    width: 360px;
+    margin-left: 90px;
+}
+#vision-p{
+    width: 300px;
+    margin-left: 140px;
+}
+a{
+    transition: color 0.5s, font-size 0.7s;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 31px;
+    color: #70b0ff;
+}
+.lists-of-poems{
+    margin-top: 200px;
+}
+.ul-lists-of-poems li{
+    margin-top: 5px;
+    width: 25%;
+    color: #ffffff;
+    font-size: 30px;
+    justify-content: space-between;
+}
+.ul-lists-of-poems :hover{
+    cursor: pointer;
+}
+.p-in-second-div{
+    color: white;
+    font-size: 4rem;
+}
+.poems{
+    color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
